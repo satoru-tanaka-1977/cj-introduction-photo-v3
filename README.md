@@ -32,4 +32,4 @@ https://satoru-tanaka-1977.github.io/cj-introduction-photo-v3/
 
 ## 制作状況
 
-制作中（3周目 / 2026.10.8~）
+完成（3周目 / 2026.10.8~10.9）
